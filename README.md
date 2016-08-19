@@ -32,3 +32,6 @@
 
 ### Turning BTC back into $$
 - See [this guide](http://www.coindesk.com/information/sell-bitcoin/) for information. You can also trade with sellers in the currency section. 
+
+### General Betting Advice
+- [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
