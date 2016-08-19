@@ -29,3 +29,6 @@
 - [Circle](http://circle.com) - Withdraw and deposit directly from bank. Allows you to trade $350 per week with no fees attached. Requires extensive ID verification
 - [LocalBitcoins](http://localbitcoins.com) - Like ebay for BTC. Trustworthy if you are using a trustworthy seller. You can meet people face-to-face or pay using things like wire transfers. Very good prices from power sellers on here. 
 - [MPGH Currency Trade](http://www.mpgh.net/forum/forumdisplay.php?f=885) - The quickest way to get BTC, but often the most costly. Nearly all sellers have built-in fees partially due to the risk they take.
+
+### Turning BTC back into $$
+- See [this guide](http://www.coindesk.com/information/sell-bitcoin/) for information. You can also trade with sellers in the currency section. 
