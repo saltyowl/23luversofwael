@@ -22,6 +22,7 @@
 
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
+- Bets are sometimes shared in the predictions chat. However, these are unoffical bets and often riskier than the ones posted in the "no chat" picks group. Follow them or don't, but don't be upset if they lose. 
 
 ## Buying and Using Bitcoin
 ## Basics of BTC as how it relates to betting
