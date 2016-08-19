@@ -24,6 +24,10 @@
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
 
 ## Buying and Using Bitcoin
+## Basics of BTC as how it relates to betting
+- If you plan on BTC betting, the basic process is : buy BTC, send BTC to your wallet, sign up for your preferred betting site and get a deposit address, send money from your wallet to the deposit address
+- Sending deposits to gambling sites are against the TOS of both Coinbase and Circle. It is always best to send the money to your *private* wallet first and then send to your bookie.
+
 ### How and Where do I buy?
 - [Coinbase](http://coinbase.com) - Withdraw and deposit BTC directly into your bank. Requires extensive ID verification
 - [Circle](http://circle.com) - Withdraw and deposit directly from bank. Allows you to trade $350 per week with no fees attached. Requires extensive ID verification
