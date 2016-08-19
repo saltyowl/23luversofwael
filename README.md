@@ -20,6 +20,8 @@
 - *Two Star* 	★★-  medium risk
 - *Three Star* 	★★★ - least risk
 
+There is no set % as this is gambling and it is up to you what percentage you assign to each star rating. 
+
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
 - Bets are sometimes shared in the predictions chat. However, these are unoffical bets and often riskier than the ones posted in the "no chat" picks group. Follow them or don't, but don't be upset if they lose. 
