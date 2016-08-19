@@ -32,7 +32,8 @@ There is no set % as this is gambling and it is up to you what percentage you ar
 - [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
 
 ## Buying and Using Bitcoin
-## Basics of BTC as how it relates to betting
+
+### Basics of BTC as how it relates to betting
 - If you plan on BTC betting, the basic process is : buy BTC, send BTC to your private wallet, sign up for your preferred betting site and get a deposit address, send money from your wallet to the deposit address. It is normal for the deposit and withdrawal process to take a little while for confirmation
 - Sending deposits to gambling sites are against the TOS of both Coinbase and Circle. It is always best to send the money to your *private* wallet first and then send to your bookie.
 
