@@ -10,16 +10,9 @@
 
 ## Preferred Betting Sites
 
-### Esports
-- *Best* is [Nitrogen Sports](https://nitrogensports.eu/r/873216 )
-
-
-
-### Soccer and Other Sports - Inside USA
-- [Cloudbet](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
-
-### Soccer and Other Sports - Outside USA
-- [Bet365](http://www.bet365.com/)
+- [Nitrogen Sports](https://nitrogensports.eu/r/873216 ) is best for *esports*
+- [Cloudbet](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829) is best for *soccer and other sports* inside the USA
+- [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA
 
 ## Money Management System
 - *One Star* - high risk
