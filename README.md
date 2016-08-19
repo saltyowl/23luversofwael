@@ -11,6 +11,7 @@
 
 ## Preferred Betting Sites
 > All betting sites have a limited number of markets that they support. When I say "best", I mean that they have the largest percentage of the picks that will be posted in our group
+
 - [Nitrogen Sports](https://nitrogensports.eu/r/873216) is best for *esports*
 - [Cloudbet](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829) is best for *soccer and other sports* inside the USA
 - [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA
