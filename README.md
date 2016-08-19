@@ -22,7 +22,7 @@
 - *Two Star* 	★★-  medium risk
 - *Three Star* 	★★★ - least risk
 
-There is no set % as this is gambling and it is up to you what percentage you assign to each star rating. 
+There is no set % as this is gambling and it is up to you what percentage you are willing to risk. A good rule of thumb is 2% / 5% / 7%
 
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
