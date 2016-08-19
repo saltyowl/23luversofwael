@@ -23,4 +23,9 @@
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
 
-
+## Buying and Using Bitcoin
+### How and Where do I buy?
+- [Coinbase](http://coinbase.com) - Withdraw and deposit BTC directly into your bank. Requires extensive ID verification
+- [Circle](http://circle.com) - Withdraw and deposit directly from bank. Allows you to trade $350 per week with no fees attached. Requires extensive ID verification
+- [LocalBitcoins](http://localbitcoins.com) - Like ebay for BTC. Trustworthy if you are using a trustworthy seller. You can meet people face-to-face or pay using things like wire transfers. Very good prices from power sellers on here. 
+- [MPGH Currency Trade](http://www.mpgh.net/forum/forumdisplay.php?f=885) - The quickest way to get BTC, but often the most costly. Nearly all sellers have built-in fees partially due to the risk they take.
