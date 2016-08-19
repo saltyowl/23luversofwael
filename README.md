@@ -10,7 +10,7 @@
 
 
 ## Preferred Betting Sites
-
+> All betting sites have a limited number of markets that they support. When I say "best", I mean that they have the largest percentage of the picks that will be posted in our group
 - [Nitrogen Sports](https://nitrogensports.eu/r/873216) is best for *esports*
 - [Cloudbet](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829) is best for *soccer and other sports* inside the USA
 - [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA
@@ -38,7 +38,7 @@ There is no set % as this is gambling and it is up to you what percentage you as
 - [MPGH Currency Trade](http://www.mpgh.net/forum/forumdisplay.php?f=885) - The quickest way to get BTC, but often the most costly. Nearly all sellers have built-in fees partially due to the risk they take.
 
 ### Turning BTC back into $$
-- See [this guide](http://www.coindesk.com/information/sell-bitcoin/) for information. You can also trade with sellers in the currency section. 
+- See [this guide](http://www.coindesk.com/information/sell-bitcoin/) for information. You can also trade with sellers in the [currency section](http://www.mpgh.net/forum/forumdisplay.php?f=885). 
 
 ### General Betting Advice
 - [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
