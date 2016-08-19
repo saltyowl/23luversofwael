@@ -6,11 +6,12 @@
 - [Preferred Betting Sites](#preferred-betting-sites)
 - [Money Management System](#money-management-system)
 - [Group Rules](#group-rules)
+- [Buying and Using Bitcoin](#group-rules)
 
 
 ## Preferred Betting Sites
 
-- [Nitrogen Sports](https://nitrogensports.eu/r/873216 ) is best for *esports*
+- [Nitrogen Sports](https://nitrogensports.eu/r/873216) is best for *esports*
 - [Cloudbet](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829) is best for *soccer and other sports* inside the USA
 - [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA
 
@@ -21,4 +22,5 @@
 
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
+
 
