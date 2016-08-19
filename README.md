@@ -6,6 +6,7 @@
 - [Preferred Betting Sites](#preferred-betting-sites)
 - [Money Management System](#money-management-system)
 - [Group Rules](#group-rules)
+- [General Betting Advice](#general-betting-advice)
 - [Buying and Using Bitcoin](#group-rules)
 
 
@@ -27,6 +28,9 @@ There is no set % as this is gambling and it is up to you what percentage you as
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
 - Bets are sometimes shared in the predictions chat. However, these are unoffical bets and often riskier than the ones posted in the "no chat" picks group. Follow them or don't, but don't be upset if they lose. 
 
+### General Betting Advice
+- [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
+
 ## Buying and Using Bitcoin
 ## Basics of BTC as how it relates to betting
 - If you plan on BTC betting, the basic process is : buy BTC, send BTC to your wallet, sign up for your preferred betting site and get a deposit address, send money from your wallet to the deposit address
@@ -41,5 +45,4 @@ There is no set % as this is gambling and it is up to you what percentage you as
 ### Turning BTC back into $$
 - See [this guide](http://www.coindesk.com/information/sell-bitcoin/) for information. You can also trade with sellers in the [currency section](http://www.mpgh.net/forum/forumdisplay.php?f=885). 
 
-### General Betting Advice
-- [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
+
