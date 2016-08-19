@@ -46,6 +46,7 @@ There is no set % as this is gambling and it is up to you what percentage you ar
 - See [this guide](http://www.coindesk.com/information/sell-bitcoin/) for information. You can also trade with sellers in the [currency section](http://www.mpgh.net/forum/forumdisplay.php?f=885). 
 
 ### Private Wallets?
+> Using a private wallet is easy! Install your wallet with the settings you prefer. Once you get a list of deposit addresses, copy one of those addresses and send money to it in order to fill it up. 
 - [Electrum](https://electrum.org/#home) is a good all-around wallet that offers security but still allows you to recover your BTC in the case of a full system failure. Make sure to write down and keep a copy of your passphrase or you will lose your BTCs FOREVER if something happens to your hardware copy.
 - [Multibit](https://multibit.org/) - Technically more secure than Electrum. However, if you lose your wallet, it is lost forever. 
 
