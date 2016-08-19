@@ -16,9 +16,9 @@
 - [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA
 
 ## Money Management System
-- *One Star* - high risk
-- *Two Star* - medium risk
-- *Three Star* - least risk
+- *One Star* 	★ - high risk
+- *Two Star* 	★★-  medium risk
+- *Three Star* 	★★★ - least risk
 
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
