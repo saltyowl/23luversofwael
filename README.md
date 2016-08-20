@@ -39,6 +39,7 @@ There is no set % as this is gambling and it is up to you what percentage you ar
 ### Basics of BTC as how it relates to betting
 - If you plan on BTC betting, the basic process is : buy BTC, send BTC to your private wallet, sign up for your preferred betting site and get a deposit address, send money from your wallet to the deposit address. It is normal for the deposit and withdrawal process to take a little while for confirmation
 - Sending deposits to gambling sites are against the TOS of both Coinbase and Circle. It is always best to send the money to your *private* wallet first and then send to your bookie.
+- There is a transaction fee when sending bitcoin for it to go through the blockchain. However, it is small enough that it is neglibible (0.01 or lower). If you want your BTC to go through faster, you may set a higher fee. See [here](https://bitcoin.org/en/how-it-works).
 
 ### How and Where do I buy?
 - [Coinbase](http://coinbase.com) - Withdraw and deposit BTC directly into your bank. Requires extensive ID verification
