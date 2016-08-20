@@ -13,11 +13,11 @@
 ## Preferred Betting Sites
 > All betting sites have a limited number of markets that they support. When I say "best", I mean that they have the largest percentage of the picks that will be posted in our group
 
-- [Nitrogen Sports](https://nitrogensports.eu/r/873216) is best for *esports*
-- [Cloudbet](https://www.cloudbet.com/) is best for *soccer and other sports* inside the USA
-- [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA
+- [Nitrogen Sports](https://nitrogensports.eu/r/873216) is best for *esports*. Instant betting if you're using bitcoin. Some countries may require a USA vpn to connect. 
+- [Cloudbet](https://www.cloudbet.com/) is best for *soccer and other sports* inside the USA. Instant betting if you're using bitcoin. Some countries may require a USA vpn to connect. 
+- [Bet365](http://www.bet365.com/) is best for *soccer and other sports* outside of the USA. Requires extensive KYC identification to withdraw funds. This takes a few days at minimum. 
 
-You will NOT be able to use only one site if you want to follow esports and regular sports bets. You will have to use nitrogen + your choice of either CB or Bet365. 
+You will NOT be able to use only one site if you want to follow esports and regular sports bets. You will have to use nitrogen + your choice of either CB or Bet365.
 
 ## Money Management System
 - *One Star* 	★ - high risk
