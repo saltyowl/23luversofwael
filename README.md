@@ -29,6 +29,7 @@ There is no set % as this is gambling and it is up to you what percentage you ar
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
 - Bets are sometimes shared in the predictions chat. However, these are unoffical bets and often riskier than the ones posted in the "no chat" picks group. Follow them or don't, but don't be upset if they lose. 
+- Bets are posted throughout the day. Some days have more bets, some have less. There is no specific time that all bets are in by. 
 
 ### General Betting Advice
 - [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
