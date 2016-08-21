@@ -19,12 +19,14 @@
 
 You will NOT be able to use only one site if you want to follow esports and regular sports bets. You will have to use nitrogen + your choice of either CB or Bet365.
 
+
 ## Money Management System
 - *One Star* 	★ - high risk
 - *Two Star* 	★★-  medium risk
 - *Three Star* 	★★★ - least risk
 
 There is no set % as this is gambling and it is up to you what percentage you are willing to risk. A good rule of thumb is 2% / 5% / 7%
+
 
 ## Group Rules
 - Do not talk in the picks group. You will notice it has a red "no entry" avatar. Please use the betting predictions chat instead.
@@ -33,6 +35,7 @@ There is no set % as this is gambling and it is up to you what percentage you ar
 
 ### General Betting Advice
 - [This guide from Nitrogen Sports](https://nitrogensports.eu/blog/how-to-bet-on-sports/) is a good place to get started
+
 
 ## Buying and Using Bitcoin
 
